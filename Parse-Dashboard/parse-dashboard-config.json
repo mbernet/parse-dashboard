@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-        "serverURL": "https://shopsnativetest.herokuapp.com/parse", // If your Parse Server's endpoint is not at /parse, you need to replace /parse with the correct endpoint
+        "serverURL": "https://shopsnativetest.herokuapp.com/parse",
         "appId": "z0pPt8SrCfk80xm8JB1TOl4zpslucmHSQS0YdviN",
         "masterKey": "T88MPP0ezKFUMDluIluV5Tycfl6THWLRqx48AYYG",
         "appName": "shopsnativetest"
@@ -9,7 +9,7 @@
   ],
   "users": [
     {
-      "user":"admin", // Used to log in to your Parse Dashboard
+      "user":"admin",
       "pass":"liquid1212"
     }
   ]
